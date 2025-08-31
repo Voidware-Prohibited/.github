@@ -17,7 +17,13 @@ SHORT_DESCRIPTION
 
 ## Goals
 
+- Goal 1
+- Goal 2
+
 ## Features
+
+- Feature 1
+- Feature 2
 
 ## Screenshots
 
@@ -26,6 +32,16 @@ SHORT_DESCRIPTION
 Use the package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install all dependencies.
 
 ### Dependencies
+
+This project depends on the following:
+- Dependency 1
+- Dependency 2
+
+
+```bash
+npm install
+```
+
 
 ### Install
 
@@ -40,15 +56,24 @@ npm run check
 npm run format
 ```
 
+## 🔀 Available Platforms
+
+**Windows** - Dedicated Server API and Management Framework Backend
+
+**Linux** - Public API for Dedicated Server to Master Server communication
+
+**Mac OS** - Master Server API and Management Framework Backend
+
+
 ## Project Structure
 ```
-anima
-├──anima-archon
-    ├──anima-archon-edge
-├──anima-aether
-    ├──anima-aether-edge
+root
+├──subdir
+    ├──subdir
+├──subdir
+    ├──subdir
 ├──anima-aevus
-    ├──anima-aevus-edge
+    ├──subdir
 ```
 
 ## Support
@@ -68,6 +93,9 @@ This project is maintained by [@USERNAME](https://github.com/USERNAME). Please u
 No changes are currently planned.
 
 ## Technologies
+
+- Technology 1
+- Technology 2
 
 
 ## Contributing
